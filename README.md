@@ -1,2 +1,2 @@
 # soma1
-soma daily
+soma daily code programming.
